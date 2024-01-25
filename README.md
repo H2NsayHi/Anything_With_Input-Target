@@ -1,6 +1,7 @@
 ## Introduction
 
-Here is my PyTorch implementation of the model described in the paper 
+Sometimes, all that matters to me when solving an AI challenge is the input, output, and neural network architecture. All you have to do is adjust the input and output because I completed it for you. However, the code is still from scratch to serve the purpose of finetuning or changing the neural network structure. 
+Enjoy
 
 ## How to use my code
 
