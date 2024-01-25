@@ -1,6 +1,3 @@
-# Anything_With_Input&Target
-# [PYTORCH] YOLO (You Only Look Once)
-
 ## Introduction
 
 Here is my pytorch implementation of the model described in the paper **YOLO9000: Better, Faster, Stronger** [paper](https://arxiv.org/abs/1612.08242). 
@@ -15,15 +12,6 @@ With my code, you can:
 * **Train your model from scratch**
 * **Train your model with my trained model**
 * **Evaluate test images with either my trained model or yours**
-
-## Requirements:
-
-* **python 3.6**
-* **pytorch 0.4**
-* **opencv (cv2)**
-* **tensorboard**
-* **tensorboardX** (This library could be skipped if you do not use SummaryWriter)
-* **numpy**
 
 ## Datasets:
 
